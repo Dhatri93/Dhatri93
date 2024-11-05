@@ -1,8 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Dhatri Boddepalli</h1>
 <h3 align="center">Open to Work</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 - 📫 How to reach me dhatriboddepalli@gmail.com
 
